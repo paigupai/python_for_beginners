@@ -13,6 +13,8 @@
 >> pip3 install requests  
 >> pip3 install BeautifulSoup4  
 >> pip3 install lxml  
+
+盗版小说网站基本上都是套用一样的结构，稍微修改下，可以适用于绝大多数盗版小说网站  
 #### TODO  
 > 如何pull,push  
 > 学习post的用法  
