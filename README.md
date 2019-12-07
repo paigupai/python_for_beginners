@@ -1,6 +1,5 @@
 # python_for_beginners
 ## python爬虫入门教学  
----
 #### hello_World
 > gitpod如何使用  
 > 学习print   
