@@ -19,4 +19,5 @@
 > 如何pull,push  
 > 学习post的用法  
 > python中如何使用sqlie  
+> 如何使用postman  
 > mongodb
