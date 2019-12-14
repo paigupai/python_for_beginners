@@ -19,6 +19,7 @@
 >> pip3 install lxml  
 
 本sample实现了一个批量爬取小说，并保存为txt文件。通过使用BeautifulSoup4将html转换为树形结构的lxml，进行内容抓取。也可以不使用BeautifulSoup4，直接使用正则，从字符串中进行抓取，[例子](https://github.com/paigupai/ghost_soldier/blob/master/ghost_soldier.py)  
+
 缺点:因为直接使用.text方法直接取得，换行符br缺失，最终生成的小说正文，缺少换行符。  
 
 盗版小说网站基本上都是套用一样的html结构，稍微修改下，可以适用于绝大多数盗版小说网站  
