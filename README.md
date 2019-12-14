@@ -3,11 +3,11 @@
 #### hello_World
 > [在线ide gitpod](https://gitpod.io/workspaces/)如何使用  
 >>使用GitHub账户进行登陆，并关联，在GitHub仓库的网址前添加https://www.gitpod.io/# 即可生成workspace  
-
 > 学习[print](https://github.com/paigupai/python_for_beginners/blob/master/hello_world.py)   
 > 单击右上角的绿色三角，执行代码  
 
 如果想要在本地环境下运行python，需要安装[python环境](https://www.python.org/)，下载[IDE vscode](https://code.visualstudio.com/)(也可以直接使用PyCharm 社区版),并安装python插件
+
 #### [novel](https://github.com/paigupai/python_for_beginners/blob/master/novel.py)
 > 学习最简单的python爬虫  
 > 掌握如何导入python库  
