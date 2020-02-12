@@ -1,6 +1,6 @@
 # python_for_beginners
 ## python爬虫入门教学  
-## pythonスクレイピング入門  
+pythonスクレイピング入門  
 #### hello_World
 > [在线ide gitpod](https://gitpod.io/workspaces/)如何使用  
 >>使用GitHub账户进行登陆，并关联，在GitHub仓库的网址前添加https://www.gitpod.io/# 即可生成workspace  
