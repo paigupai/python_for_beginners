@@ -30,4 +30,5 @@ pythonスクレイピング入門
 > 学习通过post的方法取得  
 > python中如何使用sqlie  
 > 如何使用[postman](https://www.getpostman.com/)  
-> 学习mongodb
+> 学习mongodb  
+> [python推送微信](https://ops-coffee.cn/s/YhKyJ16yuI0bPpygKV_d1w)  
